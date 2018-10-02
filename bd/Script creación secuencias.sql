@@ -1,0 +1,54 @@
+CREATE SEQUENCE seq_id_nota
+    MINVALUE 1
+    START WITH 1
+    INCREMENT BY 1;
+
+CREATE SEQUENCE seq_id_inscripcion
+    MINVALUE 1
+    START WITH 1
+    INCREMENT BY 1;
+
+CREATE SEQUENCE seq_id_curso
+    MINVALUE 1
+    START WITH 1
+    INCREMENT BY 1;
+
+CREATE SEQUENCE seq_id_programa_de_est
+    MINVALUE 1
+    START WITH 1
+    INCREMENT BY 1;
+
+CREATE SEQUENCE seq_id_institucion
+    MINVALUE 1
+    START WITH 1
+    INCREMENT BY 1;
+
+CREATE SEQUENCE seq_id_alumno
+    MINVALUE 1
+    START WITH 1
+    INCREMENT BY 1;
+
+CREATE SEQUENCE seq_id_matricula
+    MINVALUE 1
+    START WITH 1
+    INCREMENT BY 1;
+
+CREATE SEQUENCE seq_id_periodo_acad
+    MINVALUE 1
+    START WITH 1
+    INCREMENT BY 1;
+
+CREATE SEQUENCE seq_id_antecedente
+    MINVALUE 1
+    START WITH 1
+    INCREMENT BY 1;
+
+CREATE SEQUENCE seq_id_familiar
+    MINVALUE 1
+    START WITH 1
+    INCREMENT BY 1;
+
+CREATE SEQUENCE seq_id_funcionario
+    MINVALUE 1
+    START WITH 1
+    INCREMENT BY 1;
